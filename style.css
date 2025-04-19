@@ -11,3 +11,37 @@ html
     margin: 0;
     padding: 0;
 }
+
+body
+{
+    background-color: antiquewhite;
+}
+
+h1, h3
+{
+    padding-bottom: 0.7rem;
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3
+{
+    padding-bottom: 0%;
+    font-size: 1rem;
+}
+
+.link-list
+{
+   margin-left: 1.5rem;
+}
+
+.list-recipes
+{
+    margin-left: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol 
+{
+    padding-left: 1.5rem; 
+}
